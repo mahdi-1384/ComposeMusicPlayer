@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="playlists">فهرست های پخش</string>
+    <string name="favoriteItems">موارد پسندیده</string>
+    <string name="recentItems">موارد تازه</string>
+    <string name="shuffle">بازپخش تصادفی</string>
+    <string name="musicsSortOrder">چینش آهنگ ها</string>
+    <string name="orderByDateAdded">بر اساس زمان افزودن</string>
+    <string name="orderByDisplayName">بر اساس نام</string>
+    <string name="hold_to_choose_the_local_music_text">فشرده و نگه داشته تا متن ترانه محلی انتخاب شود</string>
+    <string name="musicPlayBack">پخش موسیقی در پس زمینه</string>
+    <string name="music">موسیقی</string>
+</resources>
